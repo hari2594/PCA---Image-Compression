@@ -1,4 +1,4 @@
-# PCA - Image-Compression        ![](https://img.shields.io/badge/Haribaskar-Dhanabalan-brightgreen.svg?colorB=#ADFF2F)
+# PCA - Image-Compression        ![](https://img.shields.io/badge/Haribaskar-Dhanabalan-brightgreen.svg?colorB=#ADFF2F) ![](https://img.shields.io/badge/PCA-Dimensionality%20Reduction-brightblue.svg?colorB=#ADFF2F)
 The goal of this R Function is to compress arbitrary images using numerical principal component analysis techniques to obtain the most visually appealing compressed image. 
 
 `PCA` is a statistical method that uses orthogonal transformations to turn a potentially correlated set of
