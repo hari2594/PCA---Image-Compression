@@ -1,11 +1,11 @@
 # PCA - Image-Compression
 The goal of this R Function is to compress arbitrary images using numerical principal component analysis techniques to obtain the most visually appealing compressed image. 
 
-PCA is a statistical method that uses orthogonal transformations to turn a potentially correlated set of
+`PCA` is a statistical method that uses orthogonal transformations to turn a potentially correlated set of
 data into a linearly uncorrelated set of data which contain principal components. The number of principal components will be less than or equal to the total number of variables in the original dataset. Furthermore, the principal components are sorted in a way so that the first component contains the largest
 possible variance in the data, and each succeeding component has the next highest variance.
 
-The `objective pursued by the analysis of principal components` is the representation of the numerical measurements of 
+The objective pursued by the analysis of principal components is the representation of the numerical measurements of 
 several variables in a space of few dimensions, where our senses can perceive relationships that would otherwise remain 
 hidden in higher dimensions.
 
